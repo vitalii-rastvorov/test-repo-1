@@ -1,0 +1,10 @@
+{
+  "name": "dependency-graph-test",
+  "version": "1.0.0",
+  "description": "Test project for GitHub dependency graph",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "left-pad": "^1.3.0"
+  },
+  "license": "MIT"
+}
